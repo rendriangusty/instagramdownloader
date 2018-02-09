@@ -1,2 +1,2 @@
 # instagramdownloader
-download instagram videos
+Instagram video downloader class using simple_html_dom
